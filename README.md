@@ -5,8 +5,10 @@ New Year Countdown
 - 📫 Liên hệ với tôi theo email actcms.work@gmail.com - https://actcms.work
 
 This page count down from the current date to the next new year 
-Demo: https://actcmsvn.github.io/new-year-countdown/
-![Demo](https://actcmsvn.github.io/new-year-countdown/)
+
+- Demo: https://actcmsvn.github.io/new-year-countdown/
+
+![Demo](https://user-images.githubusercontent.com/77098480/192151409-72fa8c9e-abce-494c-a20e-0b17db4fca63.png)
 
 ## Features
 * Create landing page with HTML/CSS
