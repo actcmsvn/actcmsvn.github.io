@@ -2,7 +2,7 @@
 New Year Countdown
 - 👋 Xin chào, tôi là @actcmsvn
 - 🌱 Chuyên lập trình web và ứng dụng di động dựa trên nền tảng laravel & ionic
-- 📫 Liên hệ với tôi theo email actcms.work@gmail.com - hhttps://actcms.work
+- 📫 Liên hệ với tôi theo email actcms.work@gmail.com - https://actcms.work
 
 This page count down from the current date to the next new year 
 ![Demo](https://user-images.githubusercontent.com/77098480/192151409-72fa8c9e-abce-494c-a20e-0b17db4fca63.png)
